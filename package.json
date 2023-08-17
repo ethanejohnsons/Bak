@@ -1,0 +1,32 @@
+{
+  "name": "bak",
+  "version": "1.0.0",
+  "description": "A simple discord bot that exports guild data.",
+  "main": "src/index.js",
+  "dependencies": {
+    "@discordjs/rest": "^2.0.0",
+    "busboy": "^1.6.0",
+    "discord-api-types": "^0.37.54",
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.3.1",
+    "fast-deep-equal": "^3.1.3",
+    "lodash": "^4.17.21",
+    "lodash.snakecase": "^4.1.1",
+    "magic-bytes.js": "^1.0.15",
+    "streamsearch": "^1.1.0",
+    "tmp": "^0.2.1",
+    "ts-mixer": "^6.0.3",
+    "tslib": "^2.6.1",
+    "undici": "^5.23.0",
+    "ws": "^8.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanejohnsons/Bak.git"
+  },
+  "author": "Ethan Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ethanejohnsons/Bak/issues"
+  }
+}
